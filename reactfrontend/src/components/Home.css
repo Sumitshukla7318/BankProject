@@ -1,0 +1,15 @@
+/* src/components/Home.css */
+
+.hero-section {
+    height: 90vh;
+    background: linear-gradient(to right, #0056b3, #87cefa);
+  }
+  
+  .features-section {
+    background-color: #f8f9fa;
+  }
+  
+  .features-section h4 {
+    margin-top: 15px;
+  }
+  
